@@ -4,10 +4,10 @@ html{
   font-weight: 400;
   color: hsl(218, 22%, 67%);
   box-sizing: border-box;
+  width:800px;
+  height: 590px;
   padding: 40px;
   overflow: hidden; 
-  width:750px;
-  height: 500px;
 }
 
 body{
