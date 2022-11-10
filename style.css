@@ -5,7 +5,9 @@ html{
   color: hsl(218, 22%, 67%);
   box-sizing: border-box;
   padding: 40px;
-  overflow: hidden;  
+  overflow: hidden; 
+  width:750px;
+  height: 500px;
 }
 
 body{
