@@ -7,7 +7,7 @@ html{
   padding: 40px;
   overflow: hidden; 
   width:800px;
-  height: 300px;
+  height: 500px;
 }
 
 *,
@@ -22,7 +22,7 @@ body{
   border-radius: 7px;
   box-shadow: 0px 12px 20px 30px hsl(218, 22%, 67%);
   width:800px;
-  height: 300px;
+  height: 500px;
 }
 
 .main-container{
